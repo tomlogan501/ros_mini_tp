@@ -11,6 +11,9 @@ Create a branch for your initial commit
 https://www.geeksforgeeks.org/25-basic-ubuntu-commands/
 
 
+Also checkout TheConstructSim for free account https://app.theconstruct.ai/
+![image](https://github.com/user-attachments/assets/c9f3a770-4160-4ccc-b1d1-e0622f0d22a6)
+
 ## Save and restore your SD card
 Plug the SD Card in your laptop and :
 
