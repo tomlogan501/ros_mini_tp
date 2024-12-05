@@ -23,3 +23,7 @@ Linux : use the command "dd" https://doc.ubuntu-fr.org/dd
 
 Windows : use the app usbimager_1.0.10-i686-win-gdi
 https://gitlab.com/bztsrc/usbimager/tree/binaries
+
+## ROS2 <-> ROS1
+https://github.com/ros2/ros1_bridge
+Use with caution, separate properly your nodes
